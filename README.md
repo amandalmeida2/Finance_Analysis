@@ -1,4 +1,4 @@
-# Financials_Analysis
+# Financials Analysis
 
 ## Desafio de Projeto Dio: Analisando dados de um Dashboard de Vendas no Power BI
 
